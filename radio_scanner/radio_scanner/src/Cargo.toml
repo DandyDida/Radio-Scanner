@@ -1,0 +1,8 @@
+[package]
+name = "radio_scanner"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rtlsdr = "0.6"
+hound = "3"
