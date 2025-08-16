@@ -1,4 +1,4 @@
-# 📻 Radio Scanner (RTL-SDR) in Rust.
+# 📻 Radio Scanner (RTL-SDR) in Rust......
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Radio Scanner adalah proyek eksperimental yang ditulis dengan bahasa pemrograman **Rust**, bertujuan untuk menangkap dan memproses sinyal radio menggunakan perangkat **RTL-SDR (Realtek Software Defined Radio)** berbasis chip **RTL2832U**.
